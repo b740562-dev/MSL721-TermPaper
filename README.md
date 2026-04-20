@@ -50,7 +50,7 @@ bashpip install wooldridge statsmodels linearmodels scipy numpy pandas matplotli
 
 How to Run
 bash# Clone the repository
-git clone https://github.com/yourusername/econometrics-card-1995.git
+git clone https://github.com/b740562-dev/econometrics-card-1995.git
 cd econometrics-card-1995
 
 # Launch Jupyter
@@ -67,6 +67,6 @@ Wooldridge, J. M. (2019). Introductory Econometrics: A Modern Approach (7th ed.)
 
 
 Author
-Your Name — Roll Number
-Department of Chemical Engineering, IIT Delhi
+Bebo — 2023ME10055
+Department of Mechanical Engineering, IIT Delhi
 Course: MSL721 Econometrics
